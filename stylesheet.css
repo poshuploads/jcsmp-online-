@@ -1,0 +1,36 @@
+.textcent {
+	color: white;
+	text-align: center;
+	font-family: arial;
+	font-weight:
+	font-size:
+}
+.headcent {
+	color: white;
+	text-align: center;
+	font-family: arial;
+}
+.but1 {
+	background-color: red;
+	color: white;
+	cursor: pointer;
+	height: 100px;
+	width: 500px;
+	border: none;
+	border-radius: 5px;
+	transition: opacity 0.15s;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 30px;
+}
+.but1:hover {
+	opacity: 0.8;
+}
+.but1:active {
+	opacity: 1;
+}
+.link {
+	href="https://www.example.com"
+	text-align: center;
+	color: #00A2E8;
+}
